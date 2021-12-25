@@ -1,0 +1,12 @@
+version: "2"
+services:
+        nginx:
+                image: nginx80:latest
+                build: ../.
+                ports:
+                   - "80:80"
+        #   apache: 
+        # image: apache8080:latest
+        # build: ../.
+        # ports:
+        #   - "8080:8080" 
