@@ -1,0 +1,4 @@
+# Created by cloud-init v. 21.4-0ubuntu1~20.04.1 on Tue, 21 Dec 2021 06:18:31 +0000
+
+# User rules for ubuntu
+jenkins ALL=(ALL) NOPASSWD:ALL

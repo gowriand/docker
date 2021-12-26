@@ -1,0 +1,2 @@
+Add user file  to /etc/sudoers.d
+Give 440 permission
